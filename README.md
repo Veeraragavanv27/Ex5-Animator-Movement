@@ -63,14 +63,7 @@ public class Movement : MonoBehaviour
 
 ```
 ## Output : 
-
-![image](https://github.com/user-attachments/assets/ff3df604-7d96-41fc-9a33-11e5ecfaaf31)
-
-
-![image](https://github.com/user-attachments/assets/cf362315-b157-4b95-a999-d5ff69dba125)
-
-
-![image](https://github.com/user-attachments/assets/b5b4e7fc-9305-46d6-9390-fd6096b57dd8)
+![alt text](<Screenshot 2025-05-27 220524.png>) ![alt text](<Screenshot 2025-05-27 220512.png>) ![alt text](<Screenshot 2025-05-27 220501.png>)
 
 
 ## Result :
